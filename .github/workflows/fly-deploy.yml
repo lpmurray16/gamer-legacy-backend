@@ -1,4 +1,4 @@
-name: Fly Deploy
+name: Fly auto-deploy
 
 on:
   push:
